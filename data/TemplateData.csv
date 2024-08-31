@@ -1,0 +1,25 @@
+﻿Sample,Latitude,Longitude,Lithology,Suite,Collector,Misc
+Sample 1,34.099895,-117.713462,granite,Suite 1,Lackey,apple
+Sample 2,34.099895,-117.713462,basalt,Suite 2,Moore,banana
+Sample 3,34.099895,-117.713462,lecuogranite,Suite 1,Prokopenko,rose
+Sample 4,34.099895,-117.713462,Gdt,Suite 2,Harris,garden
+Sample 5,34.099895,-117.713462,BtGdt,Suite 3,Lackey,duck
+Sample 6,34.099895,-117.713462,Ashflow,Suite 3,Moore,red
+Sample 7,34.099895,-117.713462,tuff,Suite 2,Prokopenko,grass
+Sample 8,34.099895,-117.713462,granitoid,Suite 2,Harris,leaf
+Sample 9,34.099895,-117.713462,dacite,Suite 6,Lackey,bagel
+Sample 10,34.099895,-117.713462,diorite,Suite 2,Moore,pasta
+Sample 11,34.099895,-117.713462,andesite,Suite 3,Prokopenko,bread
+Sample 12,34.099895,-117.713462,rhyolite,Suite 2,Harris,mozz
+Sample 13,34.099895,-117.713462,gabbro,Suite 1,Lackey,music
+Sample 14,34.099895,-117.713462,syenite,Suite 1,Moore,rap
+Sample 15,34.099895,-117.713462,A-granite,Suite 1,Prokopenko,rock
+Sample 16,34.099895,-117.713462,sandstone,Suite 2,Harris,dust
+Sample 17,34.099895,-117.713462,shale,Suite 3,Lackey,ash
+Sample 18,34.099895,-117.713462,wacke,Suite 2,Moore,grain
+Sample 19,34.099895,-117.713462,chert,Suite 4,Prokopenko,truss
+Sample 20,34.099895,-117.713462,BIF,Suite 2,Harris,bridge
+Sample 21,34.099895,-117.713462,Skarn,Suite 5,Lackey,cross
+Sample 22,34.099895,-117.713462,Biotitite,Suite 2,Moore,lake
+Sample 23,34.099895,-117.713462,Wlded Tuff,Suite 3,Prokopenko,river
+Sample 24,34.099895,-117.713462,Arkose,Suite 3,Harris,water
